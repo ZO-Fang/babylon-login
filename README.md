@@ -1,16 +1,30 @@
 # babylon
 
-A new Flutter project.
+This project was developed as part of a Babylon interview task. It is a Flutter application integrated with Firebase that supports the following features:
 
-## Getting Started
+# Features
+## User Registration
+Users can sign up with their full name, email, and password. Upon successful registration, they are automatically redirected to the homepage.
 
-This project is a starting point for a Flutter application.
+## User Login / Logout
+Registered users can log in and log out securely. After logging in, they are also redirected to the homepage.
 
-A few resources to get you started if this is your first Flutter project:
+## Personalized Homepage
+Once logged in (either through registration or login), users are greeted with a welcome message displaying their name.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Form Validation
+All input fields (name, email, password) include proper validation to ensure data integrity and user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tested Functionality
+All core functionalities have been implemented and thoroughly tested.
+
+# Tech Stack
+Flutter – Frontend and UI
+
+Firebase Authentication – User auth management
+
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-1.jpg)
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-2.jpg)
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-3.jpg)
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-4.jpg)
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-5.jpg)

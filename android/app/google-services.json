@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374383795959",
+    "project_id": "babylon-auth",
+    "storage_bucket": "babylon-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374383795959:android:d895f73d28662eccb57df2",
+        "android_client_info": {
+          "package_name": "com.example.babylon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1hQu5cS-R4m69jHiWUbA83-BBYhZo5YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

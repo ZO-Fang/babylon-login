@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"babylon-auth","appId":"1:374383795959:android:d895f73d28662eccb57df2","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"babylon-auth","configurations":{"android":"1:374383795959:android:d895f73d28662eccb57df2","ios":"1:374383795959:ios:8a171bab8aa9b1e6b57df2"}}}}}}

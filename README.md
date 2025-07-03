@@ -28,3 +28,6 @@ Firebase Authentication – User auth management
 ![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-3.jpg)
 ![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-4.jpg)
 ![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-5.jpg)
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-6.jpg)
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-7.jpg)
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-8.jpg)

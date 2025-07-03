@@ -23,7 +23,8 @@ Flutter – Frontend and UI
 
 Firebase Authentication – User auth management
 
-![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-1.jpg)
+<img src="https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-1.jpg?raw=true" width="400"/>
+![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-1.jpg )
 ![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-2.jpg)
 ![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-3.jpg)
 ![image](https://github.com/ZO-Fang/babylon-login/blob/master/assets/img/ba-4.jpg)

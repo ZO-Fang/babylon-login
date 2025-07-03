@@ -35,6 +35,15 @@ class MyApp extends StatelessWidget {
         home: Consumer(
           builder: (context, ref, child) {
             final AsyncValue<AppUser?> user = ref.watch(authProvider);
+            //在这里，authProvider将用户状态的变化传递给变量user
+            /**
+             * authProvider 是一个 StreamProvider<AppUser?>，监听 Firebase 的 authStateChanges() 流。
+                当用户状态变化时（登录/登出），authProvider 会重新构建并返回新的 AsyncValue<AppUser?>：
+                用户登录 → AsyncValue.data(AppUser实例)
+                用户登出 → AsyncValue.data(null)
+                加载中 → AsyncValue.loading()
+                错误 → AsyncValue.error(...)
+             */
 
             return user.when(
               data: (value) {
